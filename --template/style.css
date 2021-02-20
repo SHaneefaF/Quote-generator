@@ -1,0 +1,13 @@
+html
+{
+     box-sizing: border-box; 
+     /* prevents padding from adding extra width and height and avoids scroll bars */
+
+}
+body
+{
+    min-height: 100vh;
+    margin: 0;
+    background-color: darkred;
+}
+
